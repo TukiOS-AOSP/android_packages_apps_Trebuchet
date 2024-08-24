@@ -63,6 +63,9 @@
         android:label="@string/permlab_write_settings"
         android:description="@string/permdesc_write_settings"/>
 
+    <!-- Floating window -->
+    <uses-permission android:name="com.libremobileos.permission.START_FREEFORM" />
+
     <uses-permission android:name="${applicationId}.permission.READ_SETTINGS" />
     <uses-permission android:name="${applicationId}.permission.WRITE_SETTINGS" />
 

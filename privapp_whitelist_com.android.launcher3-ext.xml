@@ -1,0 +1,5 @@
+<permissions>
+    <privapp-permissions package="com.android.launcher3">
+        <permission name="com.crdroid.permission.START_FREEFORM"/>
+    </privapp-permissions>
+</permissions>
